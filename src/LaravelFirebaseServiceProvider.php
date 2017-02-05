@@ -13,7 +13,7 @@ class LaravelFirebaseServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+
     }
 
     /**
@@ -23,6 +23,6 @@ class LaravelFirebaseServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+
     }
 }
